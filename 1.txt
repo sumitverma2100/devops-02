@@ -1,4 +1,7 @@
 1 file
+<<<<<<< HEAD
 
 
 edit merge +++--
+=======
+>>>>>>> parent of ee6950f... add merge issue
